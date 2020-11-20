@@ -20,13 +20,13 @@ Equipamento e link para venda (se necessário).
 
 ### Pré-requisitos
 
-O que você vai precisar instalar para o correto funcionamento do projeto:
+O que você vai precisar instalar e configurar para o correto funcionamento do projeto:
 
-```
-Softwares indicados
-```
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-### Instalando
+### Instalação e configuração
 
 Uma série de exemplos passo a passo que mostram como fazer a instalação e configuração do softwares citados:
 
