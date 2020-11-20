@@ -1,87 +1,72 @@
-# Project Title
+# Assistividade - Projeto de acionamento inteligente do elevador
 
-One Paragraph of project description goes here
+Projeto descrito a seguir faz parte da atividade desenvolvida pelo grupo PET Elétrica UFBA nomeada de “Assistividade”. A atividade de pesquisa tem como objetivo desenvolver materiais técnicos e tecnologias para auxiliar pessoas com deficiência (PCDs), levando estudos e informações para a comunidade interna e externa à faculdade acerca de temas ligado a PCDs. Atualmente o grupo responsável pela atividade tem a difícil e empolgante missão de criar um dispositivo, sob a forma de um protótipo, capaz de realizar o controle de acesso a elevadores de uso exclusivo para pessoas com deficiência ou com mobilidade reduzida. Através desse projeto busca-se diminuir a incidência de pessoas sem deficiência ou sem restrições de mobilidade com acesso a elevadores específicos, garantindo, portanto, o uso dos elevadores por parte do seu público de destino. Para conceber esse projeto, utilizaremos componentes eletrônicos e microprocessados com ênfase em plataformas de prototipagem eletrônica, sensores e atuadores.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
 
-What things you need to install the software and how to install them
+## Começando
 
-```
-Give examples
-```
+Essas instruções fornecerão uma cópia do projeto instalado e funcionando para fins de desenvolvimento e teste. 
 
-### Installing
+## Componentes utilizados
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
+Equipamento e link para venda (se necessário).
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+### Pré-requisitos
 
-## Versioning
+O que você vai precisar instalar para o correto funcionamento do projeto:
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+```
+Softwares indicados
+```
 
-## Authors
+### Instalando
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Uma série de exemplos passo a passo que mostram como fazer a instalação e configuração do softwares citados:
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+```
+Passo a passo de instalação e configuração dos softwares.
+```
 
-## License
+e,
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+```
+Exemplos...
+```
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Testes necessários para constatar eficácia do projeto
+
+Explicar como executar os testes automatizados para este sistema
+
+### Separar em ordem metodológica os testes necessários
+
+Explciar o que cada um teste faz e para que serve.
+
+```
+Testes...
+```
+
+## Desenvolvimento
+
+Desenvolvimento cronológico
+
+
+## Autores
+
+* **Josias Machado** - *Initial work* - [josiasmachado01](https://github.com/josiasmachado01)
+
+Veja também a lista de [colaboradores] (https://github.com/PETEletricaUFBA/Projeto_elevador/graphs/contributors) que participaram deste projeto.
+
+
+## Agradecimentos
+
+* Ex01
+* Ex02
+* Ex03
