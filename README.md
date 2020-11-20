@@ -62,8 +62,7 @@ Desenvolvimento cronológico
 
 * **Josias Machado** - *Initial work* - [josiasmachado01](https://github.com/josiasmachado01)
 
-Veja também a lista de [colaboradores] (https://github.com/PETEletricaUFBA/Projeto_elevador/graphs/contributors) que participaram deste projeto.
-
+Veja também a lista de [colaboradores.md](https://github.com/PETEletricaUFBA/Projeto_elevador/graphs/contributors) que participaram deste projeto.
 
 ## Agradecimentos
 
